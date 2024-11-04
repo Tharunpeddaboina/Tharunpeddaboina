@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Tharunpeddaboina
+# 👋 Hi, I’m Tharun
 
 ## About Me
 Hello! I'm Tharun Peddaboina, a passionate software enthusiast with a strong focus on web development. My journey in technology began with a curiosity for how things work, leading me to explore programming languages, frameworks, and innovative solutions that power our digital world.
@@ -20,7 +20,7 @@ I'm particularly skilled in the MERN stack, which allows me to create dynamic an
 
 ## 📫 How to reach me
 - Connect with me on [LinkedIn](https://linkedin.com/in/tharun-peddaboina-ab3b9522b/).
-- Feel free to email me at [  tharunpeddaboina578@gmail.com](mailto:your-email@example.com) (replace with your actual email).
+- Feel free to email me at [  tharunpeddaboina578@gmail.com](mailto:your-email@example.com) 
 
 ## 😄 Pronouns
 - He/Him
