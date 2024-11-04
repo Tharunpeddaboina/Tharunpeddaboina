@@ -10,7 +10,7 @@ I'm particularly skilled in the MERN stack, which allows me to create dynamic an
 - **User Interface Design**: Understanding the importance of aesthetics and usability in web applications, I aim to create interfaces that are not only functional but also visually appealing.
 
 ## 🌱 I’m currently learning
-- Advanced concepts in React.js, including the Context API and Redux Toolkit.
+- Advanced concepts in React.js.
 - Backend development with Express.js and integrating APIs.
 - Best practices for deploying full-stack applications.
 
